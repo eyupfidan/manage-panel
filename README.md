@@ -1,2 +1,1 @@
-# deneme
-# manage-panel
+Website Manage Panel
